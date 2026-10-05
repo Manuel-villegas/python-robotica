@@ -1,0 +1,5 @@
+nombre nombre <class 'str'>
+ruedas 18 <class 'int'>
+diamtero_rueda 5.7 ()
+bateria 89 <class 'int'>
+encendido False <class 'bool'>
