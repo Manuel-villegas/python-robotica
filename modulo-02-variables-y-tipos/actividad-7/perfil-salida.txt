@@ -1,0 +1,5 @@
+nombre Izan <class 'str'>
+anio 17 <class 'int'>
+altura_cm 1,63 <class 'str'>
+autonomo false <class 'str'>
+VERSION_ESPERADA v1.0 <class 'str'>
