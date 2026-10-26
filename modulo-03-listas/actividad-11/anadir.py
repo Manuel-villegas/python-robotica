@@ -1,0 +1,11 @@
+sensores = ["ultrasonidos", "infrarrojos","luz"]
+
+print(sensores)
+
+print(len(sensores))
+
+sensores.append("presencia")
+
+print(sensores)
+
+print(len(sensores))
