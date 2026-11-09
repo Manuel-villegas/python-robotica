@@ -1,0 +1,6 @@
+Crea solucion/barra.py.
+Declara distancia = 20.
+Guarda en barra el resultado de "#" * (distancia // 5).
+Muestra barra.
+Ejecuta el programa y guarda la salida en solucion/barra-salida.txt.
+Entregable
